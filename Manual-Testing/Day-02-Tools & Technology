@@ -1,0 +1,76 @@
+> Full Stack Testing
+
+1) Manual Testing
+2) Automation Testing using selenium + Core java
+3) Project Management Tool JIRA tool 
+4) SDLC AGile Methodology , Scrum , Framework
+5) SQL-DB 
+
+
+<> What is Software Testing ?
+-> Software Testing is a process to deliver Quality Software to Customers.
+
+-> Software Testing is a process which validates what customer is expecting and what we are delivering.
+
+-> Software Testing is a process which validates Software Working as per customer requirements
+
+
+> why we need to perform Software Testing ?
+
+
+> What happens if there is no Testing ?
+-> 1) Quality issues.
+2) Customers will give negative feedback.
+3) Impact on Users.
+4) Impact on Transactions.
+5) Impact on Financials.
+6) Re-Work
+7) Increases Maintenance Cost.
+8) Legal Issues.
+9) No Peace of Mind.
+10) Brand 
+
+
+> Software Testing Performed using two types.
+1) Functional Testing
+2) Non-Functional Testing
+
+Functional Testing :
+-> Checking Software Working as per condition mentioned in functional requirement document
+
+-> based on software we are testing inputs are different.
+
+How to Test Functional ?
+
+-> frontend based functional testing.
+
+Manual UI/Front - END :
+1) Manual
+
+Manual Backend : 
+1) Manual-SQL
+
+Web Service/API
+1) Manual - POSTMAN
+2) Automation - REST ASSURED-Core
+
+Automation : UI/Front - END
+1) QTP-UFT
+2) Selenium + Java
+3) TOSCA
+4) Cypress
+
+Automation : BACKEND 
+
+Performance Testing : 
+1) Automation Tools -> JMeter
+
+> DB system Testing : 
+
+> Testing Tools = 20 Lakh - 100% JGP
+1) JIRA
+2) Selenium + Core Java
+3) SQL
+4) POSTMAN
+5) REST ASSURED+CORE JAVA
+6) JMeter
