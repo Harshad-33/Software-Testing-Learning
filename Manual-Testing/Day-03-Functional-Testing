@@ -1,0 +1,15 @@
+> How to perform functional Testing via Front-End of the application.
+
+- Field Display Test :- checking fields in application as  per UI Design , Compare Application fields with UI Design.
+=> UI Defect 1 : Login Header is different than design
+=> UI Defect 2 : Login With Facebook button is missing
+=> UI Defect 3 : OR 
+
+- Business Logic Test :- Positive Test & Negative Test.
+- End to End Flow Test
+
+Field Display Test : Checking field are correctly displayed as per UI-User Interface Design / Frontend design
+
+> Assignment 1 : 
+1) Give a presentation on what is Testing ? , Why Testing is IMP ?
+2) Explain 10 UI elements by showing examples from different websites.
