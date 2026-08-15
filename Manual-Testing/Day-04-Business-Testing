@@ -1,0 +1,63 @@
+> How to perform functional Testing via Front-End of the application.
+
+- Business Logic Testing : 
+
+1) What is business logic Testing ? how to perform business logic Testing?
+
+- Checking each functionality working as per condition/rules/transactions mentioned in requirement document
+
+- Business Logic Testing Two Types.
+	1. Business logic Positive test.
+	2. Business logic Negative test.
+
+
+1. Business logic positive test :
+-> Checking each functionality by sending expected valid inputs to check are we getting expected output or not .
+
+
+2. Business logic Negative test :
+-> checking each functionality by sending unexpected or invalid inputs to check are we getting expected output or not .
+
+
+ex: 
+DOB field requirement :
+1. It must be DD/MM/YYYY format
+2. Minimum Age must be 18 years.
+3. If user enter < 18 years date then error message must be displayed
+4. future dates are not allowed.. if user entters future date then error message must be displayed.
+
+> Business logic positive test : check date field with valid values.
+Expected result : value must be accepted.
+
+> Business logic negative Test : check data field with Invalid values.
+Expected Result : Error message must be displayed.
+
+Ex:
+ATM PIN NO:
+
+> Business logic positive test : 
+test with valid pin , card
+expected result : ATM Authorized user
+
+> Business Logic Negative Test1 : 
+test ATM with invalid card
+
+> Business logic negative test2 :
+Test ATM with Invalid Pin No
+
+Expected Result : ATM must not authorize user , It must generate error message.
+
+
+Implement on : demo.cyclos.org 
+-> search login 
+-> username : demo , pass : 1234
+-> click 'Pay User'
+-> Check positive and negative test cases.
+
+
+> Assignment 1 :
+
+1. Give a presentation on what is Testing ? & why is Testing?
+2. Explain 10 UI elements by showing examples from different websites ?
+3. Explain what is business logic testing ? positive and negative test with more examples?
+4. how you test data field , positive test , negative test.
