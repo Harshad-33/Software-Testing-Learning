@@ -1,0 +1,81 @@
+<> Functional Testing 
+
+> Field Display
+=> Checking each field displayed as per design
+
+> Business Logic
+=> Check each condition working correctly with valid inputs-positive Test , invalid inputs - Negative Test.
+
+> End to End Flow Testing
+-> End to End flow Testing means Checking entire flow of the application from beginning to ending.
+
+> End to End flow Testing two types 
+1. End to End flow Happy Path
+2. End to End flow Non-Happy Path
+
+> End to End flow Happy Path : Checking Shortest Path with Mandatory fields.
+EX1: Gmail : 
+step 1 : Login to Gmail
+step 2 : create new email - To option
+step 3 : No need add CC , BCC , Attachment
+step 4 : Click on Send Button
+
+Expected Result : Mail must Send Successfully
+
+> End to End flow Non-Happy Path : checking longest path with mandatory and optional fields.
+
+Ex1: Gmail : 
+step 1 : Login to Gmail
+step 2 : Create new email - To Option
+step 3 : create new email with CCC,BCC,Attachment
+step 4 : click on send button
+
+Expected Result : Mail Must send successfully.
+
+How to do Functional Testing of Web Application Via Front-End ?
+
+1. Field Display : Test each field displayed.
+2. Business logic Positive : Test with valid Inputs.
+3. Business logic Negative : Test with In valid Inputs.
+4. End to End flow Happy Path : Test Shortest Path.
+5. End to End flow Non-Happy Path : Test Longest Path.
+
+
+How to do Non-Functional Testing of web application via front-end ?
+
+1. Usability Testing.
+2. computability testing.
+3. Performance Testing.
+4. Security Testing.
+5. Localization Testing.
+
+
+<> About Communication : 
+
+> Introduction :
+=> Start with I , I am , My Name is 
+=> then tell about , Qualification , college , pass year
+=> then project , your internship
+=> then skill set to complete project.
+=> if you worked in any company , tell about company , you worked on , and for how much duration.
+
+> Skill :
+=> Ability , capability , knowledge , talent , creativity.
+
+> skilled : 
+=> expertise , trained person , knowledgeable.
+
+> Communication :
+=> Interaction between one person to another person, One to one , one to two , one to many .
+=> IT act like a barrier.
+
+> two types of communication : 
+1) verbal (talking)[speaking with facial exp]
+2) non verbal (by action)
+-> but common is facial expression.
+
+> Root of communication skills : LSRW
+L -> Listening
+S -> Speaking
+R -> Reading
+W -> Writing
