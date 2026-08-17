@@ -1,0 +1,32 @@
+> Non Functional Testing:
+=> Performing Testing on the feature which are part of the application but not directly visible to the end user/customer.
+
+1) Performance Testing 
+2) Security Testing
+3) Compatibility Testing
+4) Localization Testing
+
+EX:
+As a customer/user I want to access Amazon web application 
+1. Open the browser.
+2. Enter the URL --> www.amazon.in
+3. Press Enter button on key board
+
+Ex:
+In few seconds, the amazon application home page will be loaded on the browser.
+-> the Browser will send request to amazon server.
+-> The request has to be processed.
+-> Once the processing is done the server has to send the response to the browser.
+
+1) Performance Testing can be defined using 3 factors.
+-> Load
+-> Stress
+-> Volume
+
+Load Testing : Checking the application that how many number of requests the server can handle without any delay.
+-> Tools like Load Runner and JMeter are helpful to do performance Testing.
+For Example, Assume that the application is able to handle 10lakh requests at a time.
+
+Stress Testing : Checking the application behaviour that how many number of request the server is able to handle even with some delay. (or) at which point the server is not able to handle anymore request.
+
+Volume Testing : Checking the application behaviour with the different volumes of the data.
