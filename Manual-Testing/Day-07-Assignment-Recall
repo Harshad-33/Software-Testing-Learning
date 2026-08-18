@@ -1,0 +1,17 @@
+Assignment 1:
+1. Give a presentation on what is Testing? & why Testing is imp?
+2. Explain 10 UI elements by showing examples from different Websites?
+3. Explain What is Business Logic Testing? Positive and Negative Test with more Examples?
+4.How you test Data field -Positive Test, Negative Test.
+
+
+
+> Security Testing :
+
+Ex:
+-> open www.amazon.com
+
+HTTP : Hypertext Transfer Protocol.
+SSL : Secured Socket Layer
+
+-> whenever security for the application , data is transfer using HTTP.
