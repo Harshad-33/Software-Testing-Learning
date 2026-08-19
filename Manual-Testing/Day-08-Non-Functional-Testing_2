@@ -1,0 +1,22 @@
+> Compatibility Testing :
+=> Checking the application behaviour on multiple operating systems, browsers and versions.
+
+
+> Web-Application : 
+=> any application we are accessing on browser , and it is connected with internet. so call it as Web Application.
+
+
+> How compatibility testing can be performed ?
+-> Practically it is not possible to perform in one machine so we use third party applications/tools to go for it.
+
+The leading application for compatibility is browserstack.
+https://live.browserstack.com/
+SOW : Statement Of Work 
+
+
+=> Use browserStack for compatibility Testing.
+-> Here we can go for older versions also.
+
+
+> Localization Testing : 
+=> Checking the application content(Language) and currency of the application from which the customer is accessing it.
